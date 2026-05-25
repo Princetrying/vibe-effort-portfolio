@@ -20,7 +20,7 @@ This project served as a personal practice space for understanding responsive la
 - Vanilla JavaScript
 
 ## Status
-not yet completed (Personal Archive Project)
+not yet complete (Personal Archive Project)
 
 ## Author
 Prince 
