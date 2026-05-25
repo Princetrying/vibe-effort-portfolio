@@ -23,4 +23,5 @@ This project served as a personal practice space for understanding responsive la
 not yet complete (Personal Archive Project)
 
 ## Author
-Prince 
+Prince Rode D. Robilla
+
